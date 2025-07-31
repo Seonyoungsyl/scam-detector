@@ -1,11 +1,10 @@
-# (UPDATE IN README.md) Project Title
+# Scam Detector
 
 (UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
 
 *EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
-
+*Developed a scam detector for SMS messages that automatically identifies whether a given message is ham/normal, spam, or smishing through employing 3 different supervised machine learning models, which are Random Forest, Decision Tree, and Linear Regression models.*
 
 ## Problem Statement <!--- do not change this line -->
 
@@ -13,7 +12,7 @@ Briefly describe the purpose/result(s) of your project, the skills you applied, 
 Describe the motivation for this project, why it is relevant, and what its impacts are.
 
 *EXAMPLE:*
-*Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
+*As technology continues to evolve, it’s becoming increasingly difficult for older generations and those with limited exposure to technology to identify scam messages. At the same time, scammers are taking advantage of digital platforms to commit fraud more easily. One major concern is the rise in scam messages, which has grown significantly. To address this issue, we’ve decided to build a model that can detect and flag scam messages automatically.*
 
 ## Key Results <!--- do not change this line -->
 
