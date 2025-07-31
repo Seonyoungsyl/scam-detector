@@ -8,11 +8,7 @@
 
 ## Key Results <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Enumerate the main results of this project in a list and describe them.
-
-*EXAMPLE:*
-Model using
+Developed models using supervised machine models:
 1. *Random Forest*
    - *95.8 % accuracy*
    - *Out of 115 smishing-detected messages, 105 actual smishings*
