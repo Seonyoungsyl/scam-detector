@@ -1,6 +1,6 @@
 # Scam Detector
 
-*Developed a scam detector for SMS messages that automatically identifies whether a given message is ham/normal, spam, or smishing through employing 3 different supervised machine learning models, which are Random Forest, Decision Tree, and Linear Regression models.*
+Developed a scam detector for SMS messages that automatically identifies whether a given message is ham/normal, spam, or smishing through employing 3 different supervised machine learning models, which are Random Forest, Decision Tree, and Linear Regression models.
 
 ## Problem Statement <!--- do not change this line -->
 
